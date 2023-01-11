@@ -1,0 +1,9 @@
+.card-image {
+  height: 200px;
+  width: 300px;
+}
+
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+}
